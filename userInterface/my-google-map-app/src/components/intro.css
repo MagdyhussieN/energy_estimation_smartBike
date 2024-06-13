@@ -1,0 +1,13 @@
+/* Add this CSS to your stylesheets or inside a <style> tag in your React component */
+.background-image {
+    /* Adjust the path to where your actual image is located */
+    background-image: url('/Users/magdyhussien/Desktop/bsc/my-google-map-app/public/pngtree-electric-bicycle-on-the-background-of-nature-norway-photo-picture-image_3465300.jpg');
+    background-size: cover;
+    background-position: center;
+    /* filter: blur(5px); */
+    height: 100vh;
+    width: 100%;
+    position: fixed;
+    z-index: -4;
+  }
+  
