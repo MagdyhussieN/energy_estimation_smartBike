@@ -31,3 +31,18 @@ Run the system using:
 ```bash
 python main.py
 ```
+
+## Features
+
+- Real-time energy consumption estimates
+- Dynamic adjustments based on sensor data
+- User-friendly web interface for ride management
+
+## Contributors
+
+- Magdy Hussien - Modyhussien106@gmail.com
+- Milad Ghantous - Milad.michel@guc.edu.eg
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE.md file for details.
