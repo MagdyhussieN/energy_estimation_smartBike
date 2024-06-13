@@ -14,7 +14,7 @@ This project develops a real-time energy estimation model for electric bikes, ai
 
 ## System Architecture
 
-For a detailed view of the system architecture, see ![System Architecture Diagram](link-to-your-diagram-image).
+For a detailed view of the system architecture, see ![![System Architecture Diagram](link-to-your-diagram-image)](<Untitled Diagram.drawio-2.png>).
 
 ## Setup
 
